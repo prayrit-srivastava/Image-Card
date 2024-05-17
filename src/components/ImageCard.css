@@ -1,0 +1,14 @@
+
+/* ImageCard.css */
+.image-card {
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image-card img {
+    width: 100%;
+    border-radius: 5px;
+  }
